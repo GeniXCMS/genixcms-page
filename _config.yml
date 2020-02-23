@@ -1,4 +1,4 @@
 theme: jekyll-theme-modernist
 title: [GeniXCMS - Free and OpenSource CMS]
 description: [Free and Opensource CMS with PHP and MySQL as the database. Free to download and use for Commercial or Non-Commercial Use]
-show_downloads: [true]
+show_downloads: [false]
